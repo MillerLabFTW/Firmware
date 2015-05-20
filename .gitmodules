@@ -1,0 +1,3 @@
+[submodule "buildlog-lasercutter-marlin"]
+	path = buildlog-lasercutter-marlin
+	url = https://github.com/millerlabFW/buildlog-lasercutter-marlin
